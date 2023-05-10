@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mis recetas de cocina</title>
+    <link>http://www.iesvillaverde.es</link>
+    <description>Cocina para los mas peques de la casa</description>
+    <item>
+      <guid>http://www.iesvillaverde.es/rec/pollo-al-limon</guid>
+      <title>Pollo al limón</title>
+      <link>http://www.iesvillaverde.es/rec/pollo-al-limon.html</link>
+      <description>Para preparar esta receta los ingredientes son...</description>
+      <pubDate>Tue, 14 Feb 2023 23:11:29 +0200</pubDate>
+    </item>
+    <item>
+      <guid>http://www.iesvillaverde.es/rec/albondigas</guid>
+      <title>Albondigas con tomate</title>
+      <link>http://www.iesvillaverde.es/rec/albondigas.html</link>
+      <description>Los ingredientes necesarios para esta receta son...</description>
+      <pubDate>Sun, 25 Jan 2023 23:11:29 +0200</pubDate>
+    </item>
+    <item>
+      <guid>http://www.iesvillaverde.es/rec/paella</guid>
+      <title>Paella valenciana</title>
+      <link>http://www.iesvillaverde.es/rec/paella.html</link>
+      <description>Esta receta empieza...</description>
+      <pubDate>Sun, 17 Jul 2022 23:11:29 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
